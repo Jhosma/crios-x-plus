@@ -1,0 +1,1 @@
+<?php // Codigo de sensores ?>
